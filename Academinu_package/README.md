@@ -17,4 +17,4 @@
 * >\Mod : 텔레그램 토큰 보관 폴더
 * >\Mod\telegram_config : 텔레그램 토큰 키 보관 파일 
 ***
-### Wiki : Study 자료들
+### Telegram Bot Name : autoMIN
