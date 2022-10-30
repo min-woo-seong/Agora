@@ -1,4 +1,4 @@
-# Comin Story
+# comin-storia
 ```
 ├─Academinu_package(프로젝트)
 │  ├─Lib
