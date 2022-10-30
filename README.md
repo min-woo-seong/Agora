@@ -1,3 +1,11 @@
 # Agora
-1. Academinu_Package : 산출물
-2. My_learn : 공부 한것들
+├─Academinu_package
+│  ├─Lib
+│  │  └─Crawl
+│  └─Mod
+└─My_learn
+    ├─ML(머신러닝)
+    │  └─bike_data
+    ├─NLP(자연어처리)
+    └─Python
+        └─data
