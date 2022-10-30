@@ -23,7 +23,7 @@
 |------|---|---|
 |예제 데이터|**sklearn.datasets** |사이킷런 내장 예제 제공 데이터셋 |
 |피처 처리|**sklearn.preprocessing**  |데이터 전처리시 필요한 댜양한 기능 제공(예 : 인코딩, 정규화 스케일링등) |
-|  | **sklearn.feature_selection **| 알고리즘 수행시 큰 영향을 미치는 피처를 우선순위대로 선택후 작업을 수행하는 다양한 기능 제공 |
+|  | **sklearn.feature_selection**| 알고리즘 수행시 큰 영향을 미치는 피처를 우선순위대로 선택후 작업을 수행하는 다양한 기능 제공 |
 |  | **sklearn.feature_exture_extraction**  |텍스트 데이터나 이미지 데이터의 벡터화된 피처를 추출 |
 | 피처 처리& 차원 축소 | **sklearn.decomposition** |차원 축소와 관련한 알고리즘을 지원하는 모듈 (PCA, NMF, Truncate SVD등 |
 | 데이터분리, 검증& 파라미터 튜닝 | **sklearn.model_selectio** | 교차검증을 위한 학습/테스트용분리, GridSearch로 최적 파라미터 추출등 API제공|
