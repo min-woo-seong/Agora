@@ -1,4 +1,3 @@
-
 ├─Estimator(지도학습의 모든 알고리즘)
 │  ├─Classifier(분류구현클래스)
 │  │  ├─DecisionTreeClassfier
@@ -14,6 +13,7 @@
 │      └─Ridge
 ├─fit() [학습]
 └─predict() [예측]
+
 
 
 
