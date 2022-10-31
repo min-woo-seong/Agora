@@ -26,7 +26,7 @@
 |  | **sklearn.feature_selection**| 알고리즘 수행시 큰 영향을 미치는 피처를 우선순위대로 선택후 작업을 수행하는 다양한 기능 제공 |
 |  | **sklearn.feature_exture_extraction**  |텍스트 데이터나 이미지 데이터의 벡터화된 피처를 추출 |
 | 피처 처리& 차원 축소 | **sklearn.decomposition** |차원 축소와 관련한 알고리즘을 지원하는 모듈 (PCA, NMF, Truncate SVD등 |
-| 데이터분리, 검증& 파라미터 튜닝 | **sklearn.model_selectio** | 교차검증을 위한 학습/테스트용분리, GridSearch로 최적 파라미터 추출등 API제공|
+| 데이터분리, 검증& 파라미터 튜닝 | **sklearn.model_selection** | 교차검증을 위한 학습/테스트용분리, GridSearch로 최적 파라미터 추출등 API제공|
 |평가 | **sklearn.metrics** |분류, 회귀, 클러스터링, 페어와이즈에 대한 다양한 성능 측정 방법 제공 (Accuracy, Precision, Recall, ROC-AUC, RMSE) |
 |머신러닝 알고리즘  | **sklearn.ensemble**  |앙상블 알고리즘(랜덤포레스트, 에이다 부스트, 그래디언트부스팅 |
 |  |**sklearn.linear_model**   |선형 회귀, 릿지, 라쏘및 로지스틱회귀등 회귀 관련 알고리즘을 지원, SGD관련 알고리즘도 제공 |
